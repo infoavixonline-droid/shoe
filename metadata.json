@@ -1,0 +1,6 @@
+{
+  "name": "Athletic Shoes Store",
+  "description": "A premium sportswear shoes e-commerce store with bold Nike styling, LKR pricing, and direct WhatsApp order integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
